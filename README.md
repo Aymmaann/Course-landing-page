@@ -14,16 +14,16 @@ The landing page is a visually engaging and responsive web page designed to show
 ## Screenshots
 
 ### Homepage
-![Homepage](assets/screenshots/homepage.png)
+![Homepage](./public/assets/screenshots/homepage.png)
 
 ### Testimonials
-![Testimonials](assets/screenshots/testimonials.png)
+![Testimonials](./public/assets/screenshots/testimonials.png)
 
 ### Pricing Section
-![Pricing](assets/screenshots/pricing.png)
+![Pricing](./public/assets/screenshots/pricing.png)
 
 ### Community Section
-![community](assets/screenshots/community.png)
+![community](./public/assets/screenshots/community.png)
 
 ## Live Demo
 
