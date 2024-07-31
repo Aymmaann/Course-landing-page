@@ -1,4 +1,4 @@
-# EdTech Landing Page
+# EdTech
 
 ## Overview
 
