@@ -105,7 +105,7 @@ const Body = () => {
                             <div className='h-[2px] w-full bg-gray-200'></div>
                         </div>
 
-                        <div className='flex items-center md:gap-20 xs:flex-col xs:gap-6 xs:justify-center lg:justify-between mt-7'>
+                        <div className='flex items-center md:gap-20 smd:flex-row xs:flex-col xs:gap-6 xs:justify-center lg:justify-between mt-7'>
                             <div className='flex gap-2 items-center'>
                                 <img src="/assets/icon-check.svg" alt="" />
                                 <p className='text-gray-600 font-medium'>Expert Mentors</p>
@@ -117,7 +117,7 @@ const Body = () => {
                             </div>
                         </div>
 
-                        <div className='flex items-center md:gap-20 xs:flex-col xs:gap-6 xs:justify-center lg:justify-between mt-6'>
+                        <div className='flex items-center md:gap-20 smd:flex-row xs:flex-col xs:gap-6 xs:justify-center lg:justify-between mt-6'>
                             <div className='flex gap-2 items-center'>
                                 <img src="/assets/icon-check.svg" alt="" />
                                 <p className='text-gray-600 font-medium'>Networking & Collaboration</p>
