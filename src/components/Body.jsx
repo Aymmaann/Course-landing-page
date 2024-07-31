@@ -93,7 +93,7 @@ const Body = () => {
                 <p className='text-gray-600 font-semibold mt-3'>Everything you need to grow 10x for less than a coffee.</p>
 
                 <div className='rounded-3xl flex justify-between p-3 ring-2 ring-gray-100 mt-16 lg:flex-row xs:flex-col'>
-                    <div className='p-7 text-left'>
+                    <div className='smd:p-7 xs:p-3 text-left'>
                         <h1 className='font-bold text-2xl'>Premium Elite Subscription</h1>
                         <p className='text-gray-600 mt-6'>Join founders, freelancers, designers, FAANG engineers, indie hackers, and more in our 24/7 WhatsApp Group for less than a cup of coffee.</p>
 
@@ -105,7 +105,7 @@ const Body = () => {
                             <div className='h-[2px] w-full bg-gray-200'></div>
                         </div>
 
-                        <div className='flex items-center gap-20 xs:justify-center lg:justify-between mt-7'>
+                        <div className='flex items-center md:gap-20 xs:flex-col xs:gap-6 xs:justify-center lg:justify-between mt-7'>
                             <div className='flex gap-2 items-center'>
                                 <img src="/assets/icon-check.svg" alt="" />
                                 <p className='text-gray-600 font-medium'>Expert Mentors</p>
@@ -117,7 +117,7 @@ const Body = () => {
                             </div>
                         </div>
 
-                        <div className='flex items-center gap-20 xs:justify-center lg:justify-between mt-6'>
+                        <div className='flex items-center md:gap-20 xs:flex-col xs:gap-6 xs:justify-center lg:justify-between mt-6'>
                             <div className='flex gap-2 items-center'>
                                 <img src="/assets/icon-check.svg" alt="" />
                                 <p className='text-gray-600 font-medium'>Networking & Collaboration</p>
@@ -130,7 +130,7 @@ const Body = () => {
                         </div>
                     </div>
 
-                    <div className='bg-gray-100 flex flex-col justify-center items-center ring-gray-100 ring-2 rounded-2xl xl:px-36 xl:py-10 xs:px-12 xs:py-5'>
+                    <div className='bg-gray-100 flex flex-col justify-center items-center ring-gray-100 ring-2 rounded-2xl xl:px-36 xl:py-10 xs:px-12 xs:py-5 xs:mt-8'>
                         <p className='text-gray-600 font-semibold mt-3'>Less than a cup of coffee.</p>
                         <div className='flex items-center gap-1 mt-4'>
                             <h1 className='text-black font-extrabold text-5xl'>$5</h1>
@@ -148,7 +148,7 @@ const Body = () => {
                 <h1 className='uppercase font-extrabold smd:text-[48px] smd:leading-[55px] xs:text-[30px] xs:leading-[38px]'>Everything you need in <br /> one community</h1>
                 <p className='text-gray-600 font-semibold mt-6'>Unleashing your digital potential for lasting success.</p>
 
-                <div className='flex sm:gap-12 lg:gap-24 justify-center mt-12 xs:flex-wrap xl:flex-nowrap'>
+                <div className='flex sm:gap-12 lg:gap-24 justify-center smd:mt-12 xs:mt-0 xs:flex-wrap xl:flex-nowrap'>
                     <div className='flex flex-col items-center w-[260px]'>
                         <img src="/assets/illustration-mentors.svg" alt="" className='hoverPic transitionElement'/>
                         <h2 className='uppercase font-bold text-xl mt-4'>Expert mentors</h2>
@@ -170,7 +170,7 @@ const Body = () => {
             </section>
 
 
-            <section className='flex items-center justify-between mt-36 xs:flex-wrap xs:justify-center xl:flex-nowrap gap-10'>
+            <section className='flex items-center justify-between md:mt-36 xs:mt-16 xs:flex-wrap xs:justify-center xl:flex-nowrap gap-10'>
                 <img src="/assets/company-logos/adobe.svg" alt="" className='w-40'/>
                 <img src="/assets/company-logos/airbnb.svg" alt="" className='w-40'/>
                 <img src="/assets/company-logos/figma.svg" alt="" className='w-40'/>
